@@ -1,5 +1,4 @@
-## TKINTER APPLICATION FOR VIEWING TABLES LIKE EXCEL
-
+# TKINTER APPLICATION FOR VIEWING TABLES LIKE EXCEL
 A simple application in Tkinter Python to view data from tables just like viewed in Microsoft Excel.
 
 ### Start Using the Application

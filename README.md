@@ -3,7 +3,7 @@
 A simple application in Tkinter Python to view data from tables just like viewed in Microsoft Excel.
 
 ### Start Using the Application
-1. Clone the repository
+1. Clone the repository then run the following command.
 ```
 pip install -r reqirements.txt
 ```
